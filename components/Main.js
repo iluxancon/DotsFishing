@@ -12,7 +12,7 @@ export default class extends React.Component {
           <title>{`Система проверки задач - Q-Bit - ${this.props.title}`}</title>
           <link rel="stylesheet" href="/static/screen.css" type="text/css" media="all" />
         </Head>
-
+        
         <Header />
 
         <div id="wrapper">
