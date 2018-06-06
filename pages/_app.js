@@ -12,7 +12,7 @@ export default class extends App {
 
     return { pageProps }
   }
-  
+  //privet
 
   render() {
     const { Component, pageProps } = this.props
